@@ -1,0 +1,6 @@
+{
+	"property": "mod.centerurl.hide_toolbar",
+	"label": "Hide the toolbar",
+	"type": "checkbox",
+	"defaultValue": true
+}
